@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Django
+*.log
+staticfiles/
+media/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Environments
+.env
+.env.*
+venv/
+.envrc
+
+# Poetry
+poetry.lock
+
+# Migrations
+**/migrations/*.pyc
+**/migrations/__pycache__/
+
+# Database
+*.sqlite3
+
+# Others
+*.swp
+*.swo
+
+
