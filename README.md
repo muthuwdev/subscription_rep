@@ -42,6 +42,10 @@ subscription_app/
 - Unit and API tests for subscriptions, plan switching, and nested data retrieval.
 - Uses Django's test framework and DRF's `APITestCase`.
 
+## API Documentation
+- Interactive API docs are available via **Swagger UI** at:
+  - [http://127.0.0.1:8000/api/docs/](http://127.0.0.1:8000/api/docs/)
+
 ## Further Enhancements
 - **Docker Setup:**
   - Add `Dockerfile` and `docker-compose.yml` for containerized development and deployment.
